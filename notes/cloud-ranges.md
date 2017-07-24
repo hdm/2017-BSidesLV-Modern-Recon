@@ -22,3 +22,6 @@ $ dig txt _cloud-netblocks2.googleusercontent.com +short
 $ dig txt _cloud-netblocks3.googleusercontent.com +short
 ```
 
+## Additional Resources
+ * https://github.com/hanswolff/ipranges/
+ * https://github.com/bcoe/which-cloud
