@@ -8,4 +8,4 @@ The materials in this repository depend on the following toolkits:
  * https://github.com/fathom6/inetdata
  * https://github.com/fathom6/inetdata-parsers
  
- 
+ The slides from the BSides Las Vegas presentation can be [found here](https://github.com/fathom6/2017-BSidesLV-Modern-Recon/raw/master/Modern%20Internet%20Scale%20Reconnaisance.pdf).
